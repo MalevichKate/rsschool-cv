@@ -18,3 +18,6 @@ Belarusian National Technical University, Ecomomics Faculty.
 **English level:**
 * Deep english learning in school;
 * Business english in university for 5 years.
+
+
+
